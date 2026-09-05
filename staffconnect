@@ -1,0 +1,52 @@
+================================================================================
+  StaffConnect - Faculty & Staff Academic Portal
+  Crestview College Academic Systems
+================================================================================
+
+Welcome to StaffConnect! The web application has been completely built and is ready to run.
+
+HOW TO RUN:
+--------------------------------------------------------------------------------
+1. Direct Browser Launch:
+   Double-click 'index.html' or open:
+   file:///c:/Users/user/New folder/index.html
+
+2. One-Click Launcher:
+   Double-click 'start.bat' in this folder to launch StaffConnect in your browser.
+
+3. Local HTTP Server (Optional):
+   Run in PowerShell:
+   .\server.ps1
+   Then open: http://localhost:8080
+
+DEMO LOGIN ACCOUNTS (Pre-loaded):
+--------------------------------------------------------------------------------
+The login screen has 1-Click Quick Demo buttons for:
+
+1. Dr. Eleanor Vance (Dean of Computer Science & Engineering)
+   Email: eleanor.vance@crestview.edu
+   Password: password123
+
+2. Prof. Marcus Chen (Associate Professor of Cybersecurity)
+   Email: marcus.chen@crestview.edu
+   Password: password123
+
+3. Dr. Sarah Jenkins (Department Chair of Mathematics & Statistics)
+   Email: sarah.jenkins@crestview.edu
+   Password: password123
+
+4. Elena Rostova (Director of Academic Personnel & HR)
+   Email: elena.rostova@crestview.edu
+   Password: password123
+
+APPLICATION MODULES INCLUDED:
+--------------------------------------------------------------------------------
+- [x] 1. Secure Authentication: Demo 1-click profiles & password toggle
+- [x] 2. Executive Dashboard: Welcome greeting, KPI stat cards, schedule feed
+- [x] 3. Campus Announcements: Multi-category filters, search, full reader modal, post notice
+- [x] 4. Scheduled Meetings: RSVP actions (Attending/Tentative/Decline), virtual room simulation, schedule meeting modal
+- [x] 5. Staff Polls & Voting: Live interactive voting with animated progress bars, propose poll
+- [x] 6. Notifications Center: Unread badges on topbar bell & sidebar, filter by urgent, mark all as read
+- [x] 7. Faculty Profile Management: Editable office hours, subjects taught, research bio, notification preferences
+- [x] 8. Modern Design: Dark & Light theme toggle, glassmorphism, responsive sidebar drawer
+================================================================================
